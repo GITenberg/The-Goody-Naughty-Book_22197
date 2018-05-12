@@ -1,0 +1,30 @@
+_repo: The-Goody-Naughty-Book_22197
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wright, Blanche Fisher
+    gutenberg_agent_id: '3597'
+    url: http://www.gutenberg.org/2009/agents/3597
+    wikipedia: http://en.wikipedia.org/wiki/Blanche_Fisher_Wright
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rippey, Sarah Cory
+    gutenberg_agent_id: '25178'
+    url: http://www.gutenberg.org/2009/agents/25178
+description: The goody side -- The naughty side.
+gutenberg_issued: '2007-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: The Goody-Naughty Book
+url: http://www.gutenberg.org/ebooks/22197
